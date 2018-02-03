@@ -3,7 +3,7 @@ package com.sort;
 import java.util.Arrays;
 
 /**
- * Created by Administrator on 2017/10/10.
+ * Created by WeihongWu on 2017/10/27.
  */
 public class QuickSort {
     public static void sort(Comparable[] a){

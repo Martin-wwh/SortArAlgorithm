@@ -1,7 +1,7 @@
 package com.sort;
 
 /**
- * Created by Administrator on 2017/10/10.
+ * Created by WeihongWu on 2017/10/27.
  */
 public class Spopration {
     public static boolean less(Comparable v,Comparable w){

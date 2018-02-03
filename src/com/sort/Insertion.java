@@ -3,7 +3,7 @@ package com.sort;
 import java.util.Arrays;
 
 /**
- * Created by Administrator on 2017/9/13.
+ * Created by WeihongWu on 2017/10/27.
  */
 public class Insertion {
     public static boolean less(Comparable v,Comparable w){

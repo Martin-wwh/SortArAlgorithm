@@ -36,5 +36,6 @@ public class BUMerge {
         Comparable[] a=new Integer[]{-3,4,-1,24,22,456,-12,89};
         sort(a);
         System.out.println(Arrays.toString(a));
+
     }
 }

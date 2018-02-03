@@ -2,6 +2,9 @@ package com.sort;
 
 import java.util.Arrays;
 
+/**
+ * Created by WeihongWu on 2017/10/27.
+ */
 public class Selection {
     public static boolean less(Comparable v,Comparable w){
         return v.compareTo(w)<0;

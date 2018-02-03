@@ -1,7 +1,7 @@
 package com.sort;
 
 /**
- * Created by Administrator on 2017/10/27.
+ * Created by WeihongWu on 2017/10/27.
  */
 public class MaxPQ<Key extends Comparable<Key>> {
     private Key[] pq;

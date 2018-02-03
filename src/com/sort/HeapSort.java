@@ -3,7 +3,7 @@ package com.sort;
 import java.util.Arrays;
 
 /**
- * Created by Administrator on 2017/10/27.
+ * Created by WeihongWu on 2017/10/27.
  */
 public class HeapSort {
     private static void exch(Comparable[] a,int i,int j){
